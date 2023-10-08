@@ -2,6 +2,8 @@
 
 Look at the [Content documentation](https://content-v2.nuxtjs.org/) to learn more.
 
+Deployed on Netlify. Demo [Here](https://uhliber-nuxt-app-demo.netlify.app/).
+
 ## Setup
 
 Make sure to install the dependencies:
